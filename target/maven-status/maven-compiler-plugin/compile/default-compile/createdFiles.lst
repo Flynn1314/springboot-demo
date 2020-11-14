@@ -1,0 +1,8 @@
+com\huofei\demo\service\UcenterMemberService.class
+com\huofei\demo\DemoApplication.class
+com\huofei\demo\mapper\UcenterMemberMapper.class
+com\huofei\demo\controller\UcenterMemberController.class
+com\huofei\demo\service\impl\UcenterMemberServiceImpl.class
+com\huofei\demo\entity\UcenterMember$UcenterMemberBuilder.class
+com\huofei\demo\entity\UcenterMember.class
+com\huofei\demo\config\MybatisPlusConfig.class
